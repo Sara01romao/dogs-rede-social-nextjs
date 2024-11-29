@@ -24,7 +24,7 @@
     }
   }
   
-  .photo  a{
+  .photo a{
     display: grid;
     border-radius: 0.2rem;
     overflow: hidden;

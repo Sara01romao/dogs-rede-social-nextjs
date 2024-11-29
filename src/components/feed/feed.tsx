@@ -5,7 +5,7 @@ import FeedPhotos from "./feed-photos";
 export default  function Feed({photos}:{photos:Photo[]}) {
 
     return(
-        <div>
+        <div className="container">
             <FeedPhotos photos={photos}/>
         </div>
     )
