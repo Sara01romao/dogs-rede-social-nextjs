@@ -7,6 +7,7 @@ export const metadata: Metadata ={
     description: 'Recupere a sua senha',
 }
 
+export const dynamic = 'force-dynamic';
 
 export default async function PedeuPage() {
 

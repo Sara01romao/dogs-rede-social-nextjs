@@ -36,7 +36,7 @@ export default function LoginPerdeuForm(){
             <form action={action} className={styles.form}>
                 <Input label="Email / Usuário" name="login" type="text"/>
                 <input
-                  type="text"
+                  type="hidden"
                   name='url'
                   value={url}
                 />
