@@ -20,6 +20,7 @@ Com este projeto, adquiri experiência prática em Next.js, permitindo criar nov
 Front-end 
 ```
 Next.js
+TypeScript
 CSS module
 Victory- gráfico 
 
