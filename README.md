@@ -12,7 +12,8 @@ Este projeto é uma rede social voltada para cães, desenvolvida durante o curso
 - 'use client': benefícios de usar componentes do lado do cliente.
 - Server Actions: ações realizadas no servidor.
 - Metadata: configuração e uso de metadados.
-- Com este projeto, adquiri experiência prática em Next.js, permitindo criar novos projetos de forma mais eficiente. 🐾
+
+Com este projeto, adquiri experiência prática em Next.js, permitindo criar novos projetos. 🐾
 
 
 ## :rocket: Tecnologias Usadas
