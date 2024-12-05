@@ -1,3 +1,35 @@
+<img  align="center" max-width="auto" height="auto"  src="https://github.com/user-attachments/assets/3e06ce48-913c-4134-8806-60f4e2c666fd">
+<img  align="center" max-width="auto" height="auto"  src="https://github.com/user-attachments/assets/835921fd-3559-47a5-a7a6-96c7ede0ad9b">
+
+<br>
+
+
+## 💻  Sobre o Projeto
+
+Este projeto é uma rede social voltada para cães, desenvolvida durante o curso de Next.js-Origamid. Foi uma ótima oportunidade para aprender conceitos essenciais do framework, como:
+
+- User Service: gerenciamento de usuários.
+- 'use client': benefícios de usar componentes do lado do cliente.
+- Server Actions: ações realizadas no servidor.
+- Metadata: configuração e uso de metadados.
+- Com este projeto, adquiri experiência prática em Next.js, permitindo criar novos projetos de forma mais eficiente. 🐾
+
+
+## :rocket: Tecnologias Usadas
+Front-end 
+```
+Next.js
+CSS module
+Victory- gráfico 
+
+
+```
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
